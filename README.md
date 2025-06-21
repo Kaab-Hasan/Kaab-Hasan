@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Muhammad Kaab Hasan Siddiqui
+# I'm Muhammad Kaab Hasan Siddiqui
 
 🎓 Intermediate CS Student @ Government Degree Science & Commerce College  
 💻 Web & App Development Trainee @ SMIT  
